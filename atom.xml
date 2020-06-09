@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SomeDreams20.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-09T14:55:23.102Z</updated>
+    <title>SomeDreams</title>
+    <updated>2020-06-09T15:10:43.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SomeDreams20.github.io"/>
     <link rel="self" href="https://SomeDreams20.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://SomeDreams20.github.io/images/avatar.png</logo>
     <icon>https://SomeDreams20.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, SomeDreams</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://SomeDreams20.github.io/post/hello-gridea/</id>
